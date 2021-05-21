@@ -1,0 +1,23 @@
+{
+  "name": "katas-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blaucomfuig/KATAS-Javascript.git"
+  },
+  "author": "sergio corcuera",
+  "license": "ISC"
+  
+}
