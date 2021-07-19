@@ -4,7 +4,7 @@ function sockMerchant(n, ar) {
         return a - b
     })
 
-    console.log(sortedArray)
+ 
     let counter = 0
 
     for(let i = 1; i < n; i++){
@@ -20,4 +20,4 @@ function sockMerchant(n, ar) {
 
 }
 
-console.log(sockMerchant(10, [2,1,2,1,2,1,2,2,2,1]))
+module.exports = sockMerchant
