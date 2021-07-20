@@ -29,4 +29,4 @@ function diagonalDifference(arr) {
     return Math.abs(sumFirstDiagonal - sumSecondDiagonal)
 }
 
-console.log(diagonalDifference([[11, 2, 4, 3, 1],[4, 5, 6, 2, 0],[10, 8, -12, 1, -2], [1, 2, 3, 4, -5], [-4, 1, 10, 4, 2]]))
+module.exports = diagonalDifference
